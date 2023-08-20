@@ -6,7 +6,7 @@ Este é um simulador de autômatos finitos implementado em JavaScript. A ferrame
 
 ## Funcionamento
 
-A ferramenta é executada a partir da linha de comando com 
-`<URL_DO_REPOSITÓRIO>`, `<NOME_DO_DIRETÓRIO>`, `Nome do Aluno 1` e `Nome do Aluno 2` com as informações corretas.
+A ferramenta é executada a partir da linha de comando com as informações corretas e armazena em o arquivo de saída com resultado ja processado e tempo de execução
+`<https://github.com/LeandroFNeto/waterbox>`, `<principal>`, `Leandro de Freitas Neto` e `Pedro Herinque Pedroso`.
 
-Espero que isso atenda às suas necessidades! Certifique-se de testar o código e fazer quaisquer ajustes necessários para se adequar à sua configuração específica.
+
