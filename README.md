@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um simulador de autômatos finitos implementado em JavaScript. A ferramenta é capaz de ler a especificação de um autômato a partir de um arquivo JSON e realizar testes utilizando entradas de teste fornecidas em um arquivo CSV. Os resultados são armazenados em um arquivo de saída.
+Este é um simulador de autômatos finitos implementado em JavaScript. A ferramenta é capaz de ler a especificação de um autômato a partir de um arquivo JSON e realizar testes utilizando entradas de teste fornecidas em um arquivo CSV. Os resultados são direcionados para a pagina Web do codigo HTML.
 
 ## Funcionamento
 
