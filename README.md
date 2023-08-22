@@ -8,7 +8,7 @@ Entre as classes de autômatos foram feito códigos dos seguinte autômatos fini
 
 **Autômato Finito Determinístico(AFD).**
   
-  Funcional
+-Funcional
 
 **Autômato Finito Não Determinístico(AFND).**
 
